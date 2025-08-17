@@ -16,7 +16,7 @@ Always exploring new tools, trying to write better code, and working on becoming
 Mumbai, India 🇮🇳
 
 ## 🤝 I'm open to
-- Internships (even unpaid — I just want to learn)
+- Internships
 - Collaborations on interesting full-stack or backend projects
 - Entry-level opportunities
 
