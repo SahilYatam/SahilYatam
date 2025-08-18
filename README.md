@@ -8,9 +8,9 @@ Always exploring new tools, trying to write better code, and working on becoming
 
 ## 🌱 What I'm about
 - Backend-heavy development with Node.js
+- Frontend: React, Tailwind CSS, Redux tool kit
 - Databases: MongoDB, PostgreSQL, Redis
 - Architecture: microservices, modular monoliths, whatever makes sense
-- Tools I like: PM2, Sentry, Grafana, Docker, etc.
 
 ## 📍 Based in
 Mumbai, India 🇮🇳
@@ -21,7 +21,7 @@ Mumbai, India 🇮🇳
 - Entry-level opportunities
 
 ## 📫 How to reach me
-You can connect with me on [Email](sahilyatam9@gmail.com)  
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/sahil-yatam-1a1740377/)  
 Or drop a message if you’ve got something cool to build.
 
 ---
