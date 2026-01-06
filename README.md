@@ -10,7 +10,8 @@ Always exploring new tools, trying to write better code, and working on becoming
 - Backend-heavy development with Node.js
 - Frontend: React, Tailwind CSS, Redux tool kit
 - Databases: MongoDB, PostgreSQL, Redis
-- Architecture: microservices, modular monoliths, whatever makes sense
+- Architecture: monolithic, modular monolithic
+- Languages: JavaScript, Python
 
 ## 📍 Based in
 Mumbai, India 🇮🇳
