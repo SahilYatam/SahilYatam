@@ -30,9 +30,9 @@ Mumbai, India 🇮🇳
 ---
 
 ## 🌟 My GitHub Stats 🌟
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilYatam&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilYatam&show_icons=true&theme=radical&hide=cpp)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilYatam&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilYatam&layout=compact&theme=radical&hide=cpp)
 
 ---
 
