@@ -1,31 +1,40 @@
 # Hey, I'm Sahil 👋
 
-I'm a self-taught full-stack developer from Mumbai, just learning by doing — building real stuff, solving problems, breaking things, and figuring out how to fix them.
-
-I'm especially into backend development, clean architecture, and systems that actually scale and work well. I don’t come from a CS background, but I enjoy the process of learning by building and getting my hands dirty.
-
-Always exploring new tools, trying to write better code, and working on becoming a solid developer one step at a time.
-
-## 🌱 What I'm about
-- Backend-heavy development with Node.js
-- Frontend: React, Tailwind CSS, Redux tool kit
-- Databases: MongoDB, PostgreSQL, Redis
-- Architecture: monolithic, modular monolithic
-- Languages: JavaScript, Python
-
-## 📍 Based in
-Mumbai, India 🇮🇳
-
-## 🤝 I'm open to
-- Internships
-- Collaborations on interesting full-stack or backend projects
-- Entry-level opportunities
-
-## 📫 How to reach me
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/sahil-yatam-1a1740377/)  
-Or drop a message if you’ve got something cool to build.
+Self-taught full-stack developer from Mumbai 🇮🇳
+Focused on backend systems, clean architecture, and scalable applications.
 
 ---
 
-Thanks for stopping by.
+## 🌱 What I'm about
 
+* Backend: Node.js
+* Frontend: React, Tailwind CSS, Redux Toolkit
+* Databases: MongoDB, PostgreSQL, Redis
+* Architecture: Monolithic, Modular Monolith
+* Languages: JavaScript, Python
+
+---
+
+## 📍 Based in
+
+Mumbai, India 🇮🇳
+
+---
+
+## 🤝 I'm open to
+
+* Internships
+* Backend / Full-stack collaborations
+* Entry-level opportunities
+
+---
+
+## 🌟 My GitHub Stats 🌟
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilYatam&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilYatam&layout=compact&theme=radical)
+
+---
+
+## 🏆 LeetCode Stats 🏆
+![LeetCode Stats](https://leetcard.jacoblin.cool/Zero_015?theme=dark&font=baloo)
