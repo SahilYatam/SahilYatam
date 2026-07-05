@@ -5,6 +5,11 @@ Focused on backend systems, clean architecture, and scalable applications.
 
 ---
 
+## Resume
+📄 [View Resume](https://drive.google.com/file/d/1cWmY_Ee6VEo79QqytJhGC5QUp9wxX1QX/view)
+
+---
+
 ## 🌱 What I'm about
 
 * Backend: Node.js
