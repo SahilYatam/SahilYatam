@@ -6,13 +6,13 @@ Focused on backend systems, clean architecture, and scalable applications.
 ---
 
 ## Resume
-📄 [View Resume](https://drive.google.com/file/d/1cWmY_Ee6VEo79QqytJhGC5QUp9wxX1QX/view)
+📄 [View Resume](https://drive.google.com/file/d/1qyrlB-37J2QvvOyhtWGk6jgzy4S9y8Qx/view?usp=drive_link)
 
 ---
 
 ## 🌱 What I'm about
 
-* Backend: Node.js
+* Backend: Node.js, Express
 * Frontend: React, Tailwind CSS, Redux Toolkit
 * Databases: MongoDB, PostgreSQL, Redis
 * Architecture: Monolithic, Modular Monolith
