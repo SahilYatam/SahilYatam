@@ -4,6 +4,8 @@ Self-taught full-stack developer from Mumbai 🇮🇳
 Focused on backend systems, clean architecture, and scalable applications.
 
 ---
+## Portfolio
+[View Portfolio](https://portfolio.sahilyatam9.workers.dev/)
 
 ## Resume
 📄 [View Resume](https://drive.google.com/file/d/1qyrlB-37J2QvvOyhtWGk6jgzy4S9y8Qx/view?usp=drive_link)
