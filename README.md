@@ -8,7 +8,7 @@ Focused on backend systems, clean architecture, and scalable applications.
 [View Portfolio](https://portfolio.sahilyatam9.workers.dev/)
 
 ## Resume
-📄 [View Resume](https://drive.google.com/file/d/1c1tFzB_BazkI9XtQMA6uwCbrrtsvHaXE/view?usp=sharing)
+📄 [View Resume](https://drive.google.com/file/d/1yoPbIeQUDJm3mRus60vrpzHmPhdoqhVO/view?usp=sharing)
 
 ---
 
@@ -17,8 +17,7 @@ Focused on backend systems, clean architecture, and scalable applications.
 * Backend: Node.js, Express
 * Frontend: Next.js, React, Tailwind CSS, Redux Toolkit
 * Databases: MongoDB, PostgreSQL, Redis
-* Architecture: Monolithic, Modular Monolith
-* Languages: JavaScript, Python
+* Languages: JavaScript, Java, Python
 
 ---
 
